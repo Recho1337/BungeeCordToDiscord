@@ -37,14 +37,3 @@ The `config.properties` file allows you to customize the behavior of the BungeeW
 Once the BungeeWebhook plugin is installed and configured, it will automatically start sending server events and messages to the configured Discord webhook.
 
 Customize the message format and content by modifying the appropriate event handlers in the `BungeeWebhook.java` file.
-
-## Contributing
-
-Contributions to BungeeWebhook are welcome! If you encounter any issues, have suggestions, or would like to contribute new features or improvements, please open an issue or submit a pull request.
-
-Before making any contributions, please review the [Contribution Guidelines](CONTRIBUTING.md) for this project.
-
-## License
-
-BungeeWebhook is licensed under the [MIT License](LICENSE). See the `LICENSE` file for more information.
-
